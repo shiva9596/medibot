@@ -17,4 +17,4 @@ transformers
 pinecone-client
 cohere
 -e .
-
+gunicorn
