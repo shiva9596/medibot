@@ -7,5 +7,14 @@ langchain-pinecone
 langchain-community
 langchain_openai
 langchain_experimental
+fastapi
+uvicorn
+jinja2
+openai
+pypdf
+sentence-transformers
+transformers
+pinecone-client
 cohere
 -e .
+
