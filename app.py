@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 from src.prompt import *
 import os
-from src.helper import some_function
+
 
 app = Flask(__name__)
 
