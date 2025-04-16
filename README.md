@@ -57,3 +57,9 @@ open up localhost:8080
 - Flask
 - GPT
 - Pinecone
+
+# Project Live Demo
+The project is live! You can check it out at the following link below:
+```bash
+https://medibot-2o2y.onrender.com/
+```
